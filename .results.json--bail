@@ -1,0 +1,138 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 6,
+    "passes": 0,
+    "pending": 0,
+    "failures": 6,
+    "start": "2023-12-05T20:19:06.760Z",
+    "end": "2023-12-05T20:19:06.953Z",
+    "duration": 193
+  },
+  "tests": [
+    {
+      "title": "has a class of breakfast",
+      "fullTitle": "breakfast has a class of breakfast",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Breakfast is not defined\n    at Context.<anonymous> (test/indexTest.js:7:16)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Breakfast is not defined"
+      }
+    },
+    {
+      "title": "creates a new breakfast with the correct parameters",
+      "fullTitle": "breakfast creates a new breakfast with the correct parameters",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Breakfast is not defined\n    at Context.<anonymous> (test/indexTest.js:10:19)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Breakfast is not defined"
+      }
+    },
+    {
+      "title": "has a class of lunch",
+      "fullTitle": "lunch has a class of lunch",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Lunch is not defined\n    at Context.<anonymous> (test/indexTest.js:18:16)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Lunch is not defined"
+      }
+    },
+    {
+      "title": "creates a new lunch with the correct parameters",
+      "fullTitle": "lunch creates a new lunch with the correct parameters",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Lunch is not defined\n    at Context.<anonymous> (test/indexTest.js:21:22)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Lunch is not defined"
+      }
+    },
+    {
+      "title": "has a class of dinner",
+      "fullTitle": "dinner has a class of dinner",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Dinner is not defined\n    at Context.<anonymous> (test/indexTest.js:34:16)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Dinner is not defined"
+      }
+    },
+    {
+      "title": "creates a new dinner with the correct parameters",
+      "fullTitle": "dinner creates a new dinner with the correct parameters",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Dinner is not defined\n    at Context.<anonymous> (test/indexTest.js:37:23)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Dinner is not defined"
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "has a class of breakfast",
+      "fullTitle": "breakfast has a class of breakfast",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Breakfast is not defined\n    at Context.<anonymous> (test/indexTest.js:7:16)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Breakfast is not defined"
+      }
+    },
+    {
+      "title": "creates a new breakfast with the correct parameters",
+      "fullTitle": "breakfast creates a new breakfast with the correct parameters",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Breakfast is not defined\n    at Context.<anonymous> (test/indexTest.js:10:19)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Breakfast is not defined"
+      }
+    },
+    {
+      "title": "has a class of lunch",
+      "fullTitle": "lunch has a class of lunch",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Lunch is not defined\n    at Context.<anonymous> (test/indexTest.js:18:16)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Lunch is not defined"
+      }
+    },
+    {
+      "title": "creates a new lunch with the correct parameters",
+      "fullTitle": "lunch creates a new lunch with the correct parameters",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Lunch is not defined\n    at Context.<anonymous> (test/indexTest.js:21:22)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Lunch is not defined"
+      }
+    },
+    {
+      "title": "has a class of dinner",
+      "fullTitle": "dinner has a class of dinner",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Dinner is not defined\n    at Context.<anonymous> (test/indexTest.js:34:16)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Dinner is not defined"
+      }
+    },
+    {
+      "title": "creates a new dinner with the correct parameters",
+      "fullTitle": "dinner creates a new dinner with the correct parameters",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: Dinner is not defined\n    at Context.<anonymous> (test/indexTest.js:37:23)\n    at process.processImmediate (node:internal/timers:476:21)",
+        "message": "Dinner is not defined"
+      }
+    }
+  ],
+  "passes": []
+}
